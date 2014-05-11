@@ -1,7 +1,7 @@
 package antipatterns;
 /**
  * Overly generalized with infinite flexibility.
- * 
+ * [also called Swiss Army Knife,Kitchen Sink]
  * @author Subrata Saha.
  *
  */
